@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Student Makers Club',
+    title: 'Gatsby Bulma Default',
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  pathPrefix: '/gatsby-bulma-default',
+  plugins: ['gatsby-plugin-react-helmet', 'gatsby-plugin-sass'],
 }
