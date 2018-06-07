@@ -1,7 +1,7 @@
 # Project dependencies
 .cache
 node_modules
-src
+src/*
 yarn-error.log
 .prettierrc
 gatsby*.js
