@@ -1,0 +1,15 @@
+# Project dependencies
+.cache
+node_modules
+src
+yarn-error.log
+.prettierrc
+gatsby*.js
+LICENSE
+README.md
+yarn.lock
+package.json
+
+# Build directory
+/public
+.DS_Store
